@@ -2,7 +2,7 @@
 
 ¡Hola!, mi nombre es Jesús Jiménez (@mxjesus). Soy recién egresado de la Facultad de Ingeniería de la carrera Ingeniería en Computación. 
 
-Este es mi repositorio en donde subo los proyectos que he realizado a lo largo de mi carrera escolar y en mis ratos libres. :D
+Este es mi repositorio en donde subo los proyectos que he realizado a lo largo de mi carrera escolar y en mis ratos libres.
 
 Las carpetas estarán divididas según el lenguaje de programación o herramienta en el que se realizó el proyecto. 
 
